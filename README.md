@@ -1,1 +1,1 @@
-# text-to-image-new kurdish languge 
+# text-to-image-new kurdish sorani language 
