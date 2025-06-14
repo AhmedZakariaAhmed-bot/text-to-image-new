@@ -1,1 +1,1 @@
-# text-to-image-new
+# text-to-image-new kurdish languge 
